@@ -5,12 +5,11 @@ A project using Proteus for simulating a secure electronic voting system.
 This project demonstrates a Digital Voting System using Proteus. The system is designed to provide a secure and reliable electronic voting process using logic circuits and microcontrollers. It ensures that each voter can cast only one vote, and the results are displayed in real time.
 
 ✨ Features
-
-✔️ Electronic Voting Process – Uses digital logic to simulate secure voting.
-✔️ Unique Voting Mechanism – Ensures one vote per user.
-✔️ Live Vote Counting – Displays real-time vote count using a 7-segment display.
-✔️ Secure Circuit Design – Prevents duplicate voting.
-✔️ Simulation in Proteus – Circuit design tested and verified in Proteus.
+-  Electronic Voting Process – Uses digital logic to simulate secure voting.
+-  Unique Voting Mechanism – Ensures one vote per user.
+-  Live Vote Counting – Displays real-time vote count using a 7-segment display.
+-  Secure Circuit Design – Prevents duplicate voting.
+-  Simulation in Proteus – Circuit design tested and verified in Proteus.
 
 🔧 Components Used
 1. Microcontroller (e.g., PIC, Arduino, or 8051) (If applicable)
