@@ -1,8 +1,8 @@
 📌 Digital Voting System
-A project using Proteus for simulating a secure electronic voting system.
+A project using Logisim Evolution for simulating a secure electronic voting system.
 
 📖 Introduction
-This project demonstrates a Digital Voting System using Logisim Evolution. The system is designed to provide a secure and reliable electronic voting process using logic circuits and microcontrollers. It ensures that each voter can cast vote, and the results are displayed in real time.
+This project demonstrates a Digital Voting System using Logisim Evolution. The system is designed to provide a secure and reliable electronic voting process using logic circuits .It ensures that each voter can cast vote, and the results are displayed in real time.
 
 ✨ Features
 -  Electronic Voting Process – Uses digital logic to simulate secure voting.
