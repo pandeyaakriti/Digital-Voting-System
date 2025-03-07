@@ -22,3 +22,4 @@ This project demonstrates a Digital Voting System using Logisim Evolution. The s
 - Run the simulation to test the voting system.
 - Press different vote buttons to simulate voting.
 - Observe the real-time vote count on the 7-segment display.
+
